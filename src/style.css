@@ -1,0 +1,47 @@
+h1,
+h3 {
+  text-align: center;
+  color: blue;
+  font-weight: 75;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 15px;
+}
+col-12 {
+  text-align: center;
+}
+
+p,
+.temps,
+.emojis,
+.temp-icon {
+  margin-top: 15px;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 75;
+}
+
+.temp-icon {
+  font-size: 40px;
+  color: yellow;
+  font-weight: 100;
+}
+
+.current-temp {
+  font-size: 25px;
+  font-weight: 100;
+}
+
+.coded-by {
+  text-align: center;
+  font-family: monospace;
+  font-size: 12px;
+  font-weight: 100;
+  padding-top: 20;
+}
+
+.search-form {
+  padding: 75px;
+}
